@@ -1,4 +1,13 @@
 
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
