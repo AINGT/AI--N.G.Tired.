@@ -14,8 +14,8 @@ By combining decentralized mechanisms with real-world AI integration, we are pav
 - **Random Burn Reward (RBR):** 15% of the burned tokens are distributed randomly to token holders, incentivizing long-term holding and engagement.
 
 ### Token Allocation:
-- **3%** – Reserved for Development and Team.
-- **2%** – Dedicated to Marketing.
+- **2,5%** – Reserved for Development and Team.
+- **2,5%** – Dedicated to Marketing.
 - **10%** – Community Airdrop for early adopters and supporters.
 - **85%** – Public Sale in 4 phases.
 
