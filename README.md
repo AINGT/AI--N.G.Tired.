@@ -35,10 +35,6 @@ By combining decentralized mechanisms with real-world AI integration, we are pav
 - **10%** – Community Airdrop for early adopters and supporters.
 - **85%** – Public Sale in 4 phases.
 
-## A Message for Those Who Dare to Dream
-
-The truth is simple: People fear what they don’t understand. They’ll say no, they’ll refuse, they’ll shut down anything that challenges their view of the world—often without even trying to see it from a different perspective. History is filled with skeptics, doubters, and naysayers, but the future belongs to the bold. AI N.G.T isn’t just a token; it’s a movement. It’s for those who dare to dream, who refuse to settle, who are tired of tired thinking. We’re building something for those who don’t just watch the change—they create it. 
-
 ## Roadmap
 
 ### Last Week of 2024
@@ -63,11 +59,6 @@ The truth is simple: People fear what they don’t understand. They’ll say no,
 #### Q4
 - **DAO Formation:** Allow the community to take an active role in decision-making via a decentralized governance model.
 - **Long-term Goals Planning:** Set the stage for future utilities and real-world AI applications.
-
-## The Story Behind AI N.G.T
-
-AI N.G.T was born from the realization that artificial intelligence and blockchain are not just tools—they are gateways to the future. This project takes inspiration from pioneers like Mo Gawdat, who transitioned from major tech roles at Google and OpenAI to becoming an advocate for AI-driven change.
-In one interview, Mo shared: "AI is a mirror to humanity—it reflects back what we teach it, both the light and the dark. With AI N.G.T, we aim to embrace the light: creating a token that inspires innovation, collaboration, and the courage to challenge outdated norms.
 
 ## Tranches and RBR
 ### First Tranche:
@@ -99,14 +90,14 @@ In one interview, Mo shared: "AI is a mirror to humanity—it reflects back what
 - **1.25%** Burn.
 - **1.25%** for Liquidity.
 
+## Dynamic Price Increase
+- **Each tranche increases by 15% compared to the previous one.**
+- **Burn Reward:** 15% of burned tokens are distributed randomly to one holder meeting the minimum initial threshold  1,000,000 NGT
+
 ## This is your moment. Are you ready to step into the future, or will you let fear hold you back?
 ## The choice is yours. But remember this:
 
 While some sit and wait for the world to change, others are already writing its next chapter. Which side will you be on?
-
-## Dynamic Price Increase
-- **Each tranche increases by 15% compared to the previous one.**
-- **Burn Reward:** 15% of burned tokens are distributed randomly to one holder meeting the minimum initial threshold  1,000,000 NGT
 
 ## Join Us
 Be part of the revolution in DeFi and AI innovation. Follow our journey and contribute to the community.
