@@ -1,8 +1,24 @@
 
 # AI N.G.T - AI Never Get Tired
 
-Welcome to the world of AI N.G.T – a revolutionary token inspired by the limitless possibilities of Artificial Intelligence. 
-This project aims to combine innovation, community, and sustainability in the ever-evolving blockchain space.
+Welcome to the official repository for the AI Never Get Tired project. Here you will find key resources, including the whitepaper, smart contract code, and updates about our project.
+
+Whitepaper
+Discover the full vision behind AI N.G.T, including our mission, tokenomics, and roadmap for decentralized finance innovation.
+
+📄 Download the AI N.G.T Whitepaper
+
+What is AI N.G.T?
+AI N.G.T (AI Never Get Tired) is a blockchain project that bridges the gap between Artificial Intelligence (AI) and decentralized finance (DeFi). By leveraging cutting-edge technologies, we aim to redefine financial inclusivity and empower communities.
+
+Key Features:
+Deflationary Model: Automated token burns ensure long-term scarcity.
+Random Burn Reward (RBR): A unique mechanism that rewards holders with a portion of burned tokens.
+Roadmap Milestones: Public token sale, staking, liquidity mining, and the establishment of a Decentralized Autonomous Organization (DAO).
+Token Information:
+Blockchain: Solana (SPL Token) / Ethereum (ERC-20 Compatible)
+Ticker Symbol: AINGT
+Total Supply: 1 Billion Tokens
 
 ## Our Vision
 We believe in breaking boundaries and challenging perspectives. AI N.G.T is not just a token; it’s a movement toward embracing the future of AI and blockchain collaboration. 
@@ -22,8 +38,6 @@ By combining decentralized mechanisms with real-world AI integration, we are pav
 ## A Message for Those Who Dare to Dream
 
 The truth is simple: People fear what they don’t understand. They’ll say no, they’ll refuse, they’ll shut down anything that challenges their view of the world—often without even trying to see it from a different perspective. History is filled with skeptics, doubters, and naysayers, but the future belongs to the bold. AI N.G.T isn’t just a token; it’s a movement. It’s for those who dare to dream, who refuse to settle, who are tired of tired thinking. We’re building something for those who don’t just watch the change—they create it. 
-
-
 
 ## Roadmap
 
@@ -93,6 +107,12 @@ While some sit and wait for the world to change, others are already writing its 
 ## Dynamic Price Increase
 - **Each tranche increases by 15% compared to the previous one.**
 - **Burn Reward:** 15% of burned tokens are distributed randomly to one holder meeting the minimum initial threshold  1,000,000 NGT
+
+## Join Us
+Be part of the revolution in DeFi and AI innovation. Follow our journey and contribute to the community.
+
+🔗 Visit Our Website
+💬 Join Our Discord
 
 ##   © 2024 AI N.G.T - AI Never Get Tired. All rights reserved.
 
