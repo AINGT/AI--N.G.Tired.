@@ -1,7 +1,9 @@
 # AI Never Get Tired (AI N.G.T)
 
 Welcome to the official repository for the **AI Never Get Tired** project. Here you will find key resources, including the whitepaper, smart contract code, and updates about our project.
-
+## Our Vision
+We believe in breaking boundaries and challenging perspectives. AI N.G.T is not just a token; it’s a movement toward embracing the future of AI and blockchain collaboration. 
+By combining decentralized mechanisms with real-world AI integration, we are paving the way for something extraordinary.
 ## Whitepaper
 Discover the full vision behind AI N.G.T, including our mission, tokenomics, and roadmap for decentralized finance innovation.
 
@@ -19,10 +21,6 @@ AI N.G.T (AI Never Get Tired) is a blockchain project that bridges the gap betwe
 - **Blockchain:** Solana (SPL Token) / Ethereum (ERC-20 Compatible)
 - **Ticker Symbol:** AINGT
 - **Total Supply:** 1 Billion Tokens
-
-## Our Vision
-We believe in breaking boundaries and challenging perspectives. AI N.G.T is not just a token; it’s a movement toward embracing the future of AI and blockchain collaboration. 
-By combining decentralized mechanisms with real-world AI integration, we are paving the way for something extraordinary.
 
 ## Tokenomics
 - **Total Supply:** 1 Billion Tokens (1,000,000,000 AI N.G.T)
