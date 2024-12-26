@@ -18,7 +18,7 @@ AI N.G.T bridges the gap between AI and blockchain to pave the way for a new era
 - **Deflationary Tokenomics:** Every transaction burns 2% of its value, creating scarcity and value growth over time.
 - **Random Burn Reward (RBR):** A unique mechanism where 15% of burned tokens are randomly rewarded to holders, incentivizing long-term participation.
 - **Decentralized Governance (DAO):** Empowering the community to shape the project's future through decentralized decision-making.
-
+- **Whale Blockade** Limits any single wallet from selling more than 5% of the circulating supply within a 15-minute window.
 ---
 
 ## Token Information
