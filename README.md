@@ -96,7 +96,8 @@ While some sit and wait for the world to change, others are already writing its 
 
 ##   © 2024 AI N.G.T - AI Never Get Tired. All rights reserved.
 
- This website and its content, including text, graphics, logos, and design elements, are protected under international copyright laws. Unauthorized reproduction, distribution, or use of any material is prohibited without prior written consent from AI N.G.T. For inquiries, please contact [your email/contact].
+This website and its content, including text, graphics, logos, and design elements, are protected under international copyright laws. Unauthorized reproduction, distribution, or use of any material is prohibited without prior written consent from AI N.G.T. For inquiries, please contact ai.nevergettired@gmail.com
+
 
 ## Disclaimer 
 
