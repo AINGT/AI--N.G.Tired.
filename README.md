@@ -11,13 +11,19 @@ By combining decentralized mechanisms with real-world AI integration, we are pav
 ## Tokenomics
 - **Total Supply:** 1 Billion Tokens (1,000,000,000 AI N.G.T)
 - **2% Burn Tax:** Every transaction burns 2% of its value, ensuring deflationary tokenomics.
-- **Random Burn Reward (RBR):** 15% of the burned tokens are distributed randomly to token holders, incentivizing long-term holding and engagement.
+- **Random Burn Reward (RBR):** 15% of the burned tokens are distributed randomly to one token holders, incentivizing long-term holding and engagement.
 
 ### Token Allocation:
 - **2,5%** – Reserved for Development and Team.
 - **2,5%** – Dedicated to Marketing.
 - **10%** – Community Airdrop for early adopters and supporters.
 - **85%** – Public Sale in 4 phases.
+
+## A Message for Those Who Dare to Dream
+
+The truth is simple: People fear what they don’t understand. They’ll say no, they’ll refuse, they’ll shut down anything that challenges their view of the world—often without even trying to see it from a different perspective. History is filled with skeptics, doubters, and naysayers, but the future belongs to the bold. AI N.G.T isn’t just a token; it’s a movement. It’s for those who dare to dream, who refuse to settle, who are tired of tired thinking. We’re building something for those who don’t just watch the change—they create it. 
+
+
 
 ## Roadmap
 
@@ -46,12 +52,8 @@ By combining decentralized mechanisms with real-world AI integration, we are pav
 
 ## The Story Behind AI N.G.T
 
-AI N.G.T was born from the realization that artificial intelligence and blockchain are not just tools—they are gateways to the future. 
-This project takes inspiration from pioneers like Mo Gawdat, who transitioned from major tech roles at Google and OpenAI to becoming an advocate for AI-driven change.
-
-In one interview, Mo shared: "AI is a mirror to humanity—it reflects back what we teach it, both the light and the dark."
-
-With AI N.G.T, we aim to embrace the light: creating a token that inspires innovation, collaboration, and the courage to challenge outdated norms.
+AI N.G.T was born from the realization that artificial intelligence and blockchain are not just tools—they are gateways to the future. This project takes inspiration from pioneers like Mo Gawdat, who transitioned from major tech roles at Google and OpenAI to becoming an advocate for AI-driven change.
+In one interview, Mo shared: "AI is a mirror to humanity—it reflects back what we teach it, both the light and the dark. With AI N.G.T, we aim to embrace the light: creating a token that inspires innovation, collaboration, and the courage to challenge outdated norms.
 
 ## Tranches and RBR
 ### First Tranche:
@@ -83,13 +85,22 @@ With AI N.G.T, we aim to embrace the light: creating a token that inspires innov
 - **1.25%** Burn.
 - **1.25%** for Liquidity.
 
+## This is your moment. Are you ready to step into the future, or will you let fear hold you back?
+## The choice is yours. But remember this:
+
+While some sit and wait for the world to change, others are already writing its next chapter. Which side will you be on?
+
 ## Dynamic Price Increase
 - **Each tranche increases by 15% compared to the previous one.**
-- **Burn Reward:** 15% of burned tokens are distributed randomly to holders meeting the minimum threshold (e.g., 1,000,000 NGT).
+- **Burn Reward:** 15% of burned tokens are distributed randomly to one holder meeting the minimum initial threshold  1,000,000 NGT
 
-## Disclaimer
-  AI N.G.T (AI Never Get Tired) is a blockchain-based project aimed at innovation and community engagement. 
- Participation in this project involves risks inherent to cryptocurrency markets, including potential financial losses.
-  We do not guarantee any profits or returns. Always do your own research (DYOR) and consult with professionals before making financial decisions.
+##   © 2024 AI N.G.T - AI Never Get Tired. All rights reserved.
+
+ This website and its content, including text, graphics, logos, and design elements, are protected under international copyright laws. Unauthorized reproduction, distribution, or use of any material is prohibited without prior written consent from AI N.G.T. For inquiries, please contact [your email/contact].
+
+## Disclaimer 
+
+AI N.G.T (AI Never Get Tired) is a blockchain-based project aimed at innovation and community engagement. Participation in this project involves risks inherent to cryptocurrency markets, including potential financial losses.
+We do not guarantee any profits or returns. Always do your own research (DYOR) and consult with professionals before making financial decisions.
 
 
