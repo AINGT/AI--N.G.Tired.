@@ -49,7 +49,7 @@ The future belongs to those who dare to dream and challenge the status quo. AI N
 ## Join the Revolution
 - **Website:** [Visit Our Website](https://aingt.github.io/AI-NGT/)
 - **Discord:** [Join Our Community](https://discord.gg/ett8XNGC)
-- **Whitepaper:** [Download Whitepaper](https://github.com/AINGT/AI-NGT/blob/main/AI_NGT_Whitepaper_Improved.pdf)
+- **Whitepaper:** [https://github.com/AINGT/AI_NGT_Project/blob/main/AI_NGT_Whitepaper_Improved.pdf" class="button">Download Whitepaper</a>
 
 ---
 
