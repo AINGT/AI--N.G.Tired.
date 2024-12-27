@@ -49,8 +49,8 @@ The future belongs to those who dare to dream and challenge the status quo. AI N
 ## Join the Revolution
 - **Website:** [Visit Our Website](https://aingt.github.io/AI-NGT/)
 - **Discord:** [Join Our Community](https://discord.gg/ett8XNGC)
-- **Whitepaper:** [Download WhitePaper](https://github.com/AINGT/AI_NGT_Project/blob/main/AI_NGT_Whitepaper_Improved.pdf)
----
+- **Whitepaper:** <a href="https://raw.githubusercontent.com/AINGT/AI_NGT_Project/main/AI_NGT_Whitepaper_Improved.pdf" class="button" download>Download Whitepaper</a>
+
 
 ## Disclaimer
 Participation in AI N.G.T involves risks inherent to cryptocurrency markets. We do not guarantee profits or returns. Always conduct your own research (DYOR) and consult professionals before making financial decisions.
