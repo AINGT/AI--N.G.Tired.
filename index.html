@@ -73,7 +73,8 @@
         }
         .chart-container {
             text-align: center;
-            margin: 20px 0;
+            margin: 20px auto;
+            max-width: 800px;
         }
         #contact {
             padding: 20px;
@@ -83,16 +84,12 @@
             margin: 10px 0;
             border-top: 1px solid #66fcf1;
         }
-        #contact {
-    padding: 20px;
-    text-align: center;
-    background: #1f2833;
-    color: #66fcf1;
-    margin: 20px auto; /* dodane auto, aby wycentrować */
-    border-top: 1px solid #66fcf1;
-    max-width: 800px; /* ustalenie maksymalnej szerokości */
-}
-
+        #contact h2 {
+            color: #66fcf1;
+        }
+        #contact p {
+            font-size: 1.1em;
+        }
     </style>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script>
@@ -156,6 +153,7 @@
     <section class="chart-container">
         <h2>Token Price Growth</h2>
         <canvas id="priceChart" width="400" height="200"></canvas>
+        <p>The graph illustrates the projected token price increases across the four sale tranches. Each tranche reflects a predetermined price increment, driven by growing demand and limited supply, incentivizing early participation and long-term holding. These strategic price steps aim to enhance value and encourage engagement within the AI N.G.T ecosystem.</p>
     </section>
     <section id="roadmap">
         <h2>Roadmap</h2>
@@ -192,10 +190,9 @@
         <a href="https://discord.gg/ett8XNGC" class="button">Join Our Discord</a>
     </section>
     <section id="contact">
-    <h2>Contact Us</h2>
-    <p>For inquiries, please email us at: <a href="mailto:ai.nevergettired@gmail.com"><strong>ai.nevergettired@gmail.com</strong></a></p>
-</section>
-
+        <h2>Contact Us</h2>
+        <p>For inquiries, please email us at: <strong>ai.nevergettired@gmail.com</strong></p>
+    </section>
     <footer>
         <p>&copy; 2024 AI Never Get Tired. All rights reserved.</p>
         <section id="disclaimer">
