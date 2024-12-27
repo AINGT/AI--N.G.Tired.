@@ -83,12 +83,16 @@
             margin: 10px 0;
             border-top: 1px solid #66fcf1;
         }
-        #contact h2 {
-            color: #66fcf1;
-        }
-        #contact p {
-            font-size: 1.1em;
-        }
+        #contact {
+    padding: 20px;
+    text-align: center;
+    background: #1f2833;
+    color: #66fcf1;
+    margin: 20px auto; /* dodane auto, aby wycentrować */
+    border-top: 1px solid #66fcf1;
+    max-width: 800px; /* ustalenie maksymalnej szerokości */
+}
+
     </style>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script>
@@ -188,9 +192,10 @@
         <a href="https://discord.gg/ett8XNGC" class="button">Join Our Discord</a>
     </section>
     <section id="contact">
-        <h2>Contact Us</h2>
-        <p>For inquiries, please email us at: <strong>ai.nevergettired@gmail.com</strong></p>
-    </section>
+    <h2>Contact Us</h2>
+    <p>For inquiries, please email us at: <a href="mailto:ai.nevergettired@gmail.com"><strong>ai.nevergettired@gmail.com</strong></a></p>
+</section>
+
     <footer>
         <p>&copy; 2024 AI Never Get Tired. All rights reserved.</p>
         <section id="disclaimer">
