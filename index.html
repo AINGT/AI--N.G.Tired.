@@ -46,7 +46,6 @@
             padding: 20px;
             max-width: 800px;
             margin: 0 auto;
-            text-align: center;
         }
         section h2 {
             color: #45a29e;
@@ -74,19 +73,16 @@
         }
         .chart-container {
             text-align: center;
-            margin: 20px 0;
-            padding: 20px;
-            background: #1f2833;
-            border-radius: 10px;
+            margin: 20px auto;
+            max-width: 600px;
         }
         #contact {
             padding: 20px;
             text-align: center;
             background: #1f2833;
             color: #66fcf1;
-            margin: 10px auto;
+            margin: 10px 0;
             border-top: 1px solid #66fcf1;
-            max-width: 800px;
         }
         #contact h2 {
             color: #66fcf1;
@@ -107,8 +103,6 @@
                         label: 'Token Price (EUR)',
                         data: [0.00001, 0.0000115, 0.00001495, 0.00002168],
                         borderColor: '#66fcf1',
-                        borderWidth: 2,
-                        tension: 0.4,
                         fill: false,
                     }]
                 },
@@ -125,15 +119,13 @@
                             beginAtZero: true,
                             title: {
                                 display: true,
-                                text: 'Price (EUR)',
-                                color: '#66fcf1'
+                                text: 'Price (EUR)'
                             }
                         },
                         x: {
                             title: {
                                 display: true,
-                                text: 'Tranches',
-                                color: '#66fcf1'
+                                text: 'Tranches'
                             }
                         }
                     }
@@ -175,8 +167,8 @@
     </section>
     <section class="chart-container">
         <h2>Token Price Growth</h2>
+        <p>The graph illustrates the projected token price increases across the four sale tranches. Each step reflects a 15% rise in cost compared to the previous tranche, aiming to balance early access and incentivizing long-term holding. These strategic price adjustments help to boost demand and encourage engagement with the AI N.G.T ecosystem.</p>
         <canvas id="priceChart" width="400" height="200"></canvas>
-        <p>The graph illustrates the projected token price increases across the four sales tranches. Each step reflects a 15% rise in cost compared to the previous tranche, ensuring fair value for early adopters and encouraging long-term holding. These strategic price adjustments aim to boost demand and encourage engagement with the AI N.G.T ecosystem.</p>
     </section>
     <section id="roadmap">
         <h2>Roadmap</h2>
@@ -214,7 +206,7 @@
     </section>
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>For inquiries, please email us at: <a href="mailto:ai.nevergettired@gmail.com"><strong>ai.nevergettired@gmail.com</strong></a></p>
+        <p>For inquiries, please email us at: <strong><a href="mailto:ai.nevergettired@gmail.com">ai.nevergettired@gmail.com</a></strong></p>
     </section>
     <footer>
         <p>&copy; 2024 AI Never Get Tired. All rights reserved.</p>
