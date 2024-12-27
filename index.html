@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -72,7 +71,38 @@
             color: #c5c6c7;
             font-size: 0.9em;
         }
+        .chart-container {
+            text-align: center;
+            margin: 20px 0;
+        }
     </style>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const ctx = document.getElementById('priceChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: ['Tranche 1', 'Tranche 2', 'Tranche 3', 'Tranche 4'],
+                    datasets: [{
+                        label: 'Token Price (EUR)',
+                        data: [0.00001, 0.0000115, 0.00001495, 0.00002168],
+                        borderColor: '#66fcf1',
+                        fill: false,
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: true,
+                            position: 'top',
+                        }
+                    }
+                }
+            });
+        });
+    </script>
 </head>
 <body>
     <header>
@@ -81,7 +111,9 @@
     </header>
     <nav>
         <a href="#features">Features</a>
+        <a href="#token-allocation">Token Allocation</a>
         <a href="#roadmap">Roadmap</a>
+        <a href="#story">Our Story</a>
         <a href="#join">Join Us</a>
     </nav>
     <section id="features">
@@ -90,25 +122,50 @@
             <li><strong>Deflationary Tokenomics:</strong> Automated token burns create scarcity.</li>
             <li><strong>Random Burn Rewards (RBR):</strong> Rewarding long-term holders.</li>
             <li><strong>Decentralized Governance (DAO):</strong> Empowering the community to lead.</li>
+            <li><strong>Whale Blockade Window (WBW):</strong> Limits any single wallet from selling more than 5% of the circulating supply within a 15-minute window.</li>
+            <li><strong>Token Status:</strong> The token is <em>unmintable</em>, but <em>mutable</em> only for logo updates.</li>
         </ul>
+    </section>
+    <section id="token-allocation">
+        <h2>Token Allocation</h2>
+        <ul>
+            <li>2.5%: Reserved for Development and Team.</li>
+            <li>2.5%: Dedicated to Marketing.</li>
+            <li>10%: Community Airdrop for early adopters and supporters.</li>
+            <li>85%: Public Sale in 4 Tranches.</li>
+        </ul>
+    </section>
+    <section class="chart-container">
+        <h2>Token Price Growth</h2>
+        <canvas id="priceChart" width="400" height="200"></canvas>
     </section>
     <section id="roadmap">
         <h2>Roadmap</h2>
         <p>Follow our journey into the future:</p>
         <ul>
             <li><strong>2024:</strong> Launch website and token.</li>
-            <li><strong>2025:</strong> Build community, implement staking, and form DAO.</li>
+            <li><strong>2025:</strong> Build community and form DAO.</li>
         </ul>
+    </section>
+    <section id="story">
+        <h2>Our Story</h2>
+        <p><strong>A Message for Those Who Dare to Dream:</strong></p>
+        <p>The truth is simple: People fear what they don’t understand. They’ll say no, they’ll refuse, they’ll shut down anything that challenges their view of the world—often without even trying to see it from a different perspective. History is filled with skeptics, doubters, and naysayers, but the future belongs to the bold. AI N.G.T isn’t just a token; it’s a movement. It’s for those who dare to dream, who refuse to settle, who are tired of tired thinking. We’re building something for those who don’t just watch the change—they create it.</p>
+        <p><strong>The Story Behind AI N.G.T:</strong></p>
+        <p>AI N.G.T was born from the realization that artificial intelligence and blockchain are not just tools—they are gateways to the future. This project takes inspiration from pioneers like Mo Gawdat, who transitioned from major tech roles at Google and OpenAI to becoming an advocate for AI-driven change. In one interview, Mo shared: "AI is a mirror to humanity—it reflects back what we teach it, both the light and the dark. With AI N.G.T, we aim to embrace the light: creating a token that inspires innovation, collaboration, and the courage to challenge outdated norms."</p>
     </section>
     <section id="join">
         <h2>Join Us</h2>
         <p>This is your moment. Are you ready to step into the future, or will you let fear hold you back?</p>
         <p>While some sit and wait for the world to change, others are already writing its next chapter. Which side will you be on?</p>
-        <a href="https://aingt.github.io/AI-NGT/" class="button">Visit Our Website</a>
         <a href="https://discord.gg/ett8XNGC" class="button">Join Our Discord</a>
     </section>
     <footer>
         <p>&copy; 2024 AI Never Get Tired. All rights reserved.</p>
+        <section id="disclaimer">
+        <h2>Disclaimer</h2>
+        <p>Participation in AI N.G.T involves risks inherent to cryptocurrency markets, including potential financial losses. We do not guarantee any profits or returns. Always conduct your own research (DYOR) and consult professionals before making financial decisions.</p>
+    </section>
     </footer>
 </body>
 </html>
